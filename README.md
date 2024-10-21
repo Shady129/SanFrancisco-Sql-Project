@@ -20,3 +20,24 @@ The dataset includes the following columns:
 - TotalPay: Total compensation (BasePay + OvertimePay + OtherPay)
 - TotalPayBenefits: Total compensation including benefits
 - Year: Year of salary data
+
+
+
+### Questions Explored:
+
+- Show the average base pay for all employees.
+- Show the number of employees for each job title.
+- Show all employees who have the word "Manager" in their job title.
+- Show all employees with a job title not equal to "Manager".
+- Show all employees with a total pay between 50,000 and 75,000.
+- Show all employees with a base pay less than 50,000 or a total pay greater than 100,000.
+- Show all employees with a total pay benefits value between 125,000 and 150,000 and a job title containing the word "Director".
+- Show all employees ordered by their total pay benefits in descending order.
+- Show all job titles with an average base pay of at least 100,000 and order them by the average base pay in descending order.
+- Delete all employees who have no OvertimePay.
+- Update the base pay of all employees with the job title containing "Manager" by increasing it by 10%.
+
+
+
+
+
