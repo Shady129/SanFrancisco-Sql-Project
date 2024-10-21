@@ -38,6 +38,8 @@ The dataset includes the following columns:
 - Update the base pay of all employees with the job title containing "Manager" by increasing it by 10%.
 
 
-
+### Skills Applied:
+- Write scripts to generate basic reports that can be run every period.
+- Aggregation Functions.
 
 
