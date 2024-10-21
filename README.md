@@ -10,13 +10,13 @@ containing around 149,000 employees' salaries data in San Francisco City.
 
 The dataset includes the following columns:
 
-Id: Unique identifier for each employee
-EmployeeName
-JobTitle
-BasePay: Base Salary
-OvertimePay
-OtherPay: Other forms of compensation
-Benefits: Employee benefits
-TotalPay: Total compensation (BasePay + OvertimePay + OtherPay)
-TotalPayBenefits: Total compensation including benefits
-Year: Year of salary data
+- Id: Unique identifier for each employee
+- EmployeeName
+- JobTitle
+- BasePay: Base Salary
+- OvertimePay
+- OtherPay: Other forms of compensation
+- Benefits: Employee benefits
+- TotalPay: Total compensation (BasePay + OvertimePay + OtherPay)
+- TotalPayBenefits: Total compensation including benefits
+- Year: Year of salary data
